@@ -1,1 +1,1 @@
-# scythe
+# scythe.js
